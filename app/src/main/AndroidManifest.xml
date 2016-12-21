@@ -18,6 +18,9 @@
         </activity>
         <activity android:name=".GraphBarChart">
         </activity>
+        <activity android:name=".LineGraph">
+
+        </activity>
     </application>
 
 </manifest>
